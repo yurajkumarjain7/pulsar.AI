@@ -1,0 +1,11 @@
+ask = prompt 
+que1=
+que2 =
+que3=
+que4 =
+que5=
+que6=
+que7=
+que8 =
+que9 =
+que10 =
