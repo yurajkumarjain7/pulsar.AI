@@ -9,3 +9,7 @@ que7=
 que8 =
 que9 =
 que10 =
+
+if(){
+alert ("")
+}
