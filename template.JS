@@ -5,6 +5,10 @@ function getTextboxValue() {
     // 2. Get the Value
     const inputValue = inputElement.value; 
 
+if(value === que1)
 
+else(
+
+)
 
     
