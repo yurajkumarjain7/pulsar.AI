@@ -6,6 +6,14 @@ function getTextboxValue() {
     const inputValue = inputElement.value; 
 
 
+que
+que
+que
+que
+que
+que
+
+
     if (inputValue === que1) {
         console.log("Values match!");}
      else {
