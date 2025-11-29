@@ -3,6 +3,8 @@ function getTextboxValue() {
     const inputElement = document.getElementById('myInput');
 
     // 2. Get the Value
-    const inputValue = inputElement.value; // This is the text the user typed
+    const inputValue = inputElement.value; 
+
+
 
     
