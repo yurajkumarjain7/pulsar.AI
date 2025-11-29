@@ -5,17 +5,11 @@ function getTextboxValue() {
     // 2. Get the Value
     const inputValue = inputElement.value; 
 
-if(value === que1)
 
-else(
-
-)
-
-
-
-    if (inputValue === que1) 
-        console.log("Values match!");
-     else 
+    if (inputValue === que1) {
+        console.log("Values match!");}
+     else {
+alert("answer not found")}
 
 
     
